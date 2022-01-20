@@ -1,0 +1,18 @@
+.navbar {
+    width: 5%;
+    background: linear-gradient(0deg,#ba54f5,#e14eca);
+    border-radius: 1.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.navOptions {
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 30vh;
+    margin-bottom: 35vh;
+}

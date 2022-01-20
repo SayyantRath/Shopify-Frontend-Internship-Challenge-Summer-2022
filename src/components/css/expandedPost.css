@@ -1,0 +1,45 @@
+.expandedpost {
+    width: 50%;
+    border-radius: 1.5vh;
+    background-color: #32325d;
+}
+
+.expandedPostBody {
+    width: 81%;
+    height: 93%;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    margin-left: 9.5%;
+    margin-right: 4.75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    overflow-y: scroll;
+}
+
+.expandedPostBody::-webkit-scrollbar {
+    display: none;
+}
+
+.imgContainer-EP {
+    align-self: center;
+    margin-top: 2%;
+    width: 100%;
+    height: 25.2vw;
+    background-color: black;
+    border-radius: .75vh;
+}
+
+.noneSelected {
+    width: 81%;
+    height: 93%;
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+    margin-left: 9.5%;
+    margin-right: 4.75%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
