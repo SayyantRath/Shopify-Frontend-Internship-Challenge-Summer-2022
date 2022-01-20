@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/css/main.d29e13e0.css",
+    "main.js": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/js/main.95534bea.js",
+    "static/js/787.2370f01e.chunk.js": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/js/787.2370f01e.chunk.js",
+    "static/media/blackHole.png": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/media/blackHole.eef449eb7daa4fdce506.png",
+    "static/media/astronaut.png": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/media/astronaut.7e51e6dc983b1d7da579.png",
+    "static/media/logo.png": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/media/logo.cf0670fd5276bab47f5f.png",
+    "static/media/spacestagram.png": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/media/spacestagram.cdc6eaa2f4e01aa8ea19.png",
+    "index.html": "/Shopify-Frontend-Internship-Challenge-Summer-2022/index.html",
+    "main.d29e13e0.css.map": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/css/main.d29e13e0.css.map",
+    "main.95534bea.js.map": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/js/main.95534bea.js.map",
+    "787.2370f01e.chunk.js.map": "/Shopify-Frontend-Internship-Challenge-Summer-2022/static/js/787.2370f01e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29e13e0.css",
+    "static/js/main.95534bea.js"
+  ]
+}
