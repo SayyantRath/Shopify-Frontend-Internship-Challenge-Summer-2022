@@ -8,7 +8,7 @@ The gist of the prompt: Create a website (Spacestagram) that pulls images from a
 
 ## My Implementation ##
 
-Deployed Website: https://sayyantrath.github.io/Shopify-Frontend-Challenge-2022/
+Deployed Website: https://sayyantrath.github.io/Shopify-Frontend-Internship-Challenge-Summer-2022/
 
 **Framework used:** React
 
